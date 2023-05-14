@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS users;
+    
+CREATE TABLE users(user_name TEXT NOT NULL, log_name TEXT PRIMARY KEY, passkey TEXT NOT NULL, activate_admin BOOLEAN NOT NULL DEFAULT 'FALSE', activate_user BOOLEAN NOT NULL DEFAULT 'FALSE');

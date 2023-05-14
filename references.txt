@@ -1,0 +1,7 @@
+https://github.com/bradtraversy/myflaskapp/blob/master/app.py
+https://www.youtube.com/watch?v=bjcIAKuRiJw
+https://www.youtube.com/watch?v=ysdShEL1HMM&t=406s
+https://www.youtube.com/results?search_query=restrict+access+to+admin+panel+flask
+https://www.youtube.com/watch?v=pPSZpCVRbvQ
+
+
